@@ -1,0 +1,41 @@
+body {
+    background: url(./assets/img/pngtree-close-up-3d-rendering-of-the-us-one-hundred-american-dollar-image_13567317.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#titulo {
+    color: azure;
+    font-size: 60px;
+
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input {
+
+    border-radius: 5px;
+    padding: 15px;
+    border: none;
+
+
+}
+
+button {
+    padding: 8px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    text-transform: uppercase;
+    font-weight: 500;
+    background-color: rgb(31, 87, 34);
+    color: azure;
+
+
+}
